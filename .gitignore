@@ -119,3 +119,6 @@ pip-selfcheck.json
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+
+# Ignore large datasets
+sorted_data/
