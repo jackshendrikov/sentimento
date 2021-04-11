@@ -122,3 +122,6 @@ pip-selfcheck.json
 
 # Ignore large datasets
 sorted_data/
+
+# Ignore large model
+model/
