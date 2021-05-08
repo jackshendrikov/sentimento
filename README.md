@@ -1,4 +1,4 @@
-<h1 align="center">Sentimento English</h1>
+<h1 align="center">Sentimento</h1>
 
 <div align="center"> 
 This repository contains 3 parts of iPython notebooks, which reveal the whole process of model development for the sentiment analysis from data processing to comparative analysis of different LSTM models. Visualization is accompanied throughout the journey. The model was created for the analysis of the English text.
@@ -48,7 +48,7 @@ The easiest way to install `Keras`, `Gensim`, `NumPy`, `Jupyter`, `matplotlib` a
 3. If you haven't done so already, download and unzip this entire repository from GitHub:
 	
     ```shell
-    >> git clone https://github.com/JackShen1/sentimento-en.git
+    >> git clone https://github.com/JackShen1/sentimento.git
     ```
 
 4. Use `cd` to navigate into the top directory of the repo on your machine.
