@@ -11,7 +11,7 @@ Before running notebooks, we first need to download all the data we will be usin
 As always, the first step is to clone the repository:
 
 ```shell
->> git clone https://github.com/JackShen1/sentimento-en.git
+>> git clone https://github.com/JackShen1/sentimento.git
 ```
 
 Learning datasets include large dataset with a review from Amazon, you can download it [here](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/unprocessed.tar.gz).
